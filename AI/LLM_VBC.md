@@ -23,6 +23,7 @@
 ## Solution
 1. Start your lab and a link will be provided
 ![Lab start](image.png)
+
 2. Visit the URL and you'll see a Web Application as shown in image.
 3. Accept the Terms and Conditions and Proceed
 ![website](image-1.png)
